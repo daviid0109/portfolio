@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #BDCBD9;
+    background-size: cover;
+    height: 100vh;
+    /* Estilos principales*/
+  }
+
+  h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #8C806C;
+  }
